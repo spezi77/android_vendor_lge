@@ -177,7 +177,7 @@ PRODUCT_COPY_FILES += \
     vendor/lge/mako/proprietary/system/vendor/firmware/dxhdcp2.b01:system/vendor/firmware/discretix/dxhdcp2.b01 \
     vendor/lge/mako/proprietary/system/vendor/firmware/dxhdcp2.b02:system/vendor/firmware/discretix/dxhdcp2.b02 \
     vendor/lge/mako/proprietary/system/vendor/firmware/dxhdcp2.b03:system/vendor/firmware/discretix/dxhdcp2.b03 \
-    vvendor/lge/mako/proprietary/system/vendor/firmware/dxhdcp2.mdt:system/vendor/firmware/discretix/dxhdcp2.mdt \
+    vendor/lge/mako/proprietary/system/vendor/firmware/dxhdcp2.mdt:system/vendor/firmware/discretix/dxhdcp2.mdt \
     vendor/lge/mako/proprietary/system/vendor/lib/egl/eglsubAndroid.so:system/vendor/lib/egl/eglsubAndroid.so \
     vendor/lge/mako/proprietary/system/vendor/lib/egl/libEGL_adreno.so:system/vendor/lib/egl/libEGL_adreno.so \
     vendor/lge/mako/proprietary/system/vendor/lib/egl/libGLESv1_CM_adreno.so:system/vendor/lib/egl/libGLESv1_CM_adreno.so \
